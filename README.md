@@ -2,7 +2,7 @@
 
 This is a sample classification tool designed for internal document classification tasks. It has been customized to meet our specific requirements.
 
-![Visual Classifier Demo](static/visual classifier demo.gif)
+![Visual Classifier Demo](static/visual_classifier.gif)
 
 ## Table of Contents
 
